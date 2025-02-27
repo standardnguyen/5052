@@ -6,6 +6,10 @@ a repository for liberal ideas that hopefully will turn into a fully-fledged doc
 
 Ideas that have been found on bluesky, X, or anywhere else. Originators of the ideas have been cited.
 
+# Meta
+
+Documentation, Pitches, Infrastructure about the project itself. For example, things that would be encourage the development of 5052: UX that removes friction, online suggestion boxes?
+
 # Structure 
 
 Currently no structure has been set, aside from creating an "Inbox" folder which is named Pitches.
