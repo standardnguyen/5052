@@ -24,4 +24,4 @@ Project 2025 was not written by one individual person: it was a team effort, wit
 
 Many of the pitches tackle what Samantha Hancox-Li refers to as the ["rents-scams-gentry-gop axis"](https://bsky.app/profile/sjshancoxli.liberalcurrents.com/post/3kxn5z43mh723), which is the major faction of the Republican party that contributes nothing to the economy (and often even damages it) while capturing much of the value created by others. Weakening that group is uh, is important because we don't want rent-seekers to become wealthy and wield political power.
 
-..
+It's worth noting that 2025 goes deep into modifying bureaucracy, so that should probably also be a thing to look at. Winning power is important, but so is wielding it effectively!
