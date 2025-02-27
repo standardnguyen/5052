@@ -1,6 +1,6 @@
 # Project 5052
 
-da agenda
+a repository that hopefully will turn into a fully-fledged document that surpasses Project 2025 in detail and quality 
 
 # Pitches 
 
