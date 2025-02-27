@@ -1,6 +1,6 @@
 ---
 created: 2025-02-26T23:23:16-07:00
-modified: 2025-02-26T23:25:12-07:00
+modified: 2025-02-26T23:27:52-07:00
 ---
 
 # De-Anonymize Prediction Markets
@@ -13,4 +13,6 @@ against unregulated platforms like polymarket where bets can be placed anonymous
 
 like this is potential issue with pretty much any commodity future and stock, which is why we just... ban people from trading anonymously
 
-yeah sticking a name to the bets makes complete sense, banning onion futures doesn't
+yeah sticking a name to the bets makes complete sense, banning onion futures doesn't.
+
+banning polymarket from operating wasn't a great idea, it just moved shit offseas. instead we should be empowering kalshi and giving them a more predictable regulatory environment
