@@ -1,9 +1,11 @@
 ---
 created: 2025-02-26T23:23:16-07:00
-modified: 2025-02-26T23:24:54-07:00
+modified: 2025-02-26T23:25:12-07:00
 ---
 
 # De-Anonymize Prediction Markets
+
+https://bsky.app/profile/standard.bsky.social/post/3lfavnew6p22q
 
 against unregulated platforms like polymarket where bets can be placed anonymously, for the same reason why regular stock trading platforms shouldn't be run anonymously
 
