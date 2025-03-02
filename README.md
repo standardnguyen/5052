@@ -2,9 +2,13 @@
 
 a repository for liberal ideas that hopefully will turn into a fully-fledged document that surpasses Project 2025 in detail and quality 
 
-# Pitches 
+# ./Pitches
 
 Ideas that have been found on bluesky, X, or anywhere else. Originators of the ideas have been cited.
+
+# ./Important Things
+
+core purposes that shape our direction. These are the foundational concepts that inform decisions, strategies, and values—more abstract but essential to our mission.
 
 # Meta
 
