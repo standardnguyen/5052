@@ -1,6 +1,6 @@
 ---
 created: 2025-03-01T23:01:51-07:00
-modified: 2025-03-01T23:03:42-07:00
+modified: 2025-03-01T23:10:47-07:00
 ---
 
 # More Vicious Partisan Democrat Bureaucrats
@@ -12,3 +12,7 @@ modified: 2025-03-01T23:03:42-07:00
 ["hear me out, hillary clinton as fbi director"](https://bsky.app/profile/starshine.bsky.social/post/3ljeojswo6k2w)
 
 - @starshine.bsky.social‬
+
+# Conversely 
+
+Any Democrat that aren't willing to help eradicate the modern Nazi party should be lower on the shortlist or ignored entirely
