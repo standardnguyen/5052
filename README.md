@@ -10,6 +10,10 @@ Ideas that have been found on bluesky, X, or anywhere else. Originators of the i
 
 core purposes that shape our direction. These are the foundational concepts that inform decisions, strategies, and values—more abstract but essential to our mission.
 
+# ./Problems
+
+things stop or slow us down. They can be hard tasks, blocks in the way. Some are small and we can see them well, while some are huge and touch many parts of how things work. All need good fixes to help us move on.
+
 # Meta
 
 Documentation, Pitches, Infrastructure about the project itself. For example, things that would be encourage the development of 5052: UX that removes friction, online suggestion boxes?
