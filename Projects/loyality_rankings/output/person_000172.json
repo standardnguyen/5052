@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Andy_Barr_official_congressional_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Andy_Barr_official_congressional_photo.jpg",
+  "headshot_local_url": "static/headshots/andy_barr.jpg"
 }

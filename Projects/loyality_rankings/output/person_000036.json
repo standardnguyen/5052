@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rep._Kevin_Mullin_official_portrait%2C_118th_Congress_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rep._Kevin_Mullin_official_portrait%2C_118th_Congress_%281%29.jpg",
+  "headshot_local_url": "static/headshots/kevin_mullin.jpg"
 }

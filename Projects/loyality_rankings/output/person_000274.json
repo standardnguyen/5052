@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pat_Ryan_117th_Congress_portrait.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pat_Ryan_117th_Congress_portrait.jpeg",
+  "headshot_local_url": "static/headshots/pat_ryan.jpeg"
 }

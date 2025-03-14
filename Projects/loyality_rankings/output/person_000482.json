@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Josh_Hawley%2C_official_portrait%2C_116th_congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Josh_Hawley%2C_official_portrait%2C_116th_congress.jpg",
+  "headshot_local_url": "static/headshots/josh_hawley.jpg"
 }

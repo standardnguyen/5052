@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Julia_Letlow_117th_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Julia_Letlow_117th_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/julia_letlow.jpg"
 }

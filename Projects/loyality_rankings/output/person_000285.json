@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rep._Greg_Murphy_116th_Congress_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rep._Greg_Murphy_116th_Congress_Portrait.jpg",
+  "headshot_local_url": "static/headshots/greg_murphy.jpg"
 }

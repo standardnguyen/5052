@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Joyce_Beatty_congressional_portrait_114th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Joyce_Beatty_congressional_portrait_114th_Congress.jpg",
+  "headshot_local_url": "static/headshots/joyce_beatty.jpg"
 }

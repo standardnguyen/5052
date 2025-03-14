@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg",
+  "headshot_local_url": "static/headshots/byron_donalds.jpg"
 }

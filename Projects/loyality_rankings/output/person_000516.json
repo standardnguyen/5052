@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sen._Marsha_Blackburn_%28R-TN%29_official_headshot_-_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/marsha_blackburn.jpg"
 }

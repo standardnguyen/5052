@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rep._Emilia_Sykes_-_118th_Congress_%281.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rep._Emilia_Sykes_-_118th_Congress_%281.jpg",
+  "headshot_local_url": "static/headshots/emilia_sykes.jpg"
 }

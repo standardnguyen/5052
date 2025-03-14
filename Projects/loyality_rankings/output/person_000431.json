@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tom_Tiffany.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tom_Tiffany.jpg",
+  "headshot_local_url": "static/headshots/tom_tiffany.jpg"
 }

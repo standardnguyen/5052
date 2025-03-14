@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Catherine_Cortez_Masto_portrait_red.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Catherine_Cortez_Masto_portrait_red.jpg",
+  "headshot_local_url": "static/headshots/catherine_cortez_masto.jpg"
 }

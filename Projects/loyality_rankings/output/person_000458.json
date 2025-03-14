@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dick_Durbin_117th_Congress_portrait_%281%29_%28cropped%29.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dick_Durbin_117th_Congress_portrait_%281%29_%28cropped%29.jpeg",
+  "headshot_local_url": "static/headshots/dick_durbin.jpeg"
 }

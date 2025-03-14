@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Steve_Womack_118thCongress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Steve_Womack_118thCongress.jpg",
+  "headshot_local_url": "static/headshots/steve_womack.jpg"
 }

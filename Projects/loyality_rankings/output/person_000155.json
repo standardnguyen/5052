@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rep._Jefferson_Shreve_official_photo%2C_119th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Rep._Jefferson_Shreve_official_photo%2C_119th_Congress.jpg",
+  "headshot_local_url": "static/headshots/jefferson_shreve.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Congresswoman_Nicole_Malliotakis.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Congresswoman_Nicole_Malliotakis.jpg",
+  "headshot_local_url": "static/headshots/nicole_malliotakis.jpg"
 }

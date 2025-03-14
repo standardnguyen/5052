@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/JEM_New_Headshot_2.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/JEM_New_Headshot_2.jpg",
+  "headshot_local_url": "static/headshots/jared_moskowitz.jpg"
 }

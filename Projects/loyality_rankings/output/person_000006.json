@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Gary_Palmer_-_2018.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Gary_Palmer_-_2018.jpg",
+  "headshot_local_url": "static/headshots/gary_palmer.jpg"
 }

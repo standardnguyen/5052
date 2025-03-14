@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nydia_Vel%C3%A1zquez_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nydia_Vel%C3%A1zquez_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/nydia_vel\u00e1zquez.jpg"
 }

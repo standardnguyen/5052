@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rep._Adriano_Espaillat_117th_Official_Photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rep._Adriano_Espaillat_117th_Official_Photo.jpg",
+  "headshot_local_url": "static/headshots/adriano_espaillat.jpg"
 }

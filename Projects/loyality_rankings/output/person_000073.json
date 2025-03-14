@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Juan_Vargas_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Juan_Vargas_official_photo.jpg",
+  "headshot_local_url": "static/headshots/juan_vargas.jpg"
 }

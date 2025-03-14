@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/CongressmanPatHarriganPortrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/CongressmanPatHarriganPortrait.jpg",
+  "headshot_local_url": "static/headshots/pat_harrigan.jpg"
 }

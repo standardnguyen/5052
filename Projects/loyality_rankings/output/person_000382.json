@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Beth_Van_Duyne.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Beth_Van_Duyne.jpg",
+  "headshot_local_url": "static/headshots/beth_van_duyne.jpg"
 }

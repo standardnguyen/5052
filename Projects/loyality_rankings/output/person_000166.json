@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ron_Estes%2C_115th_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ron_Estes%2C_115th_official_photo.jpg",
+  "headshot_local_url": "static/headshots/ron_estes.jpg"
 }

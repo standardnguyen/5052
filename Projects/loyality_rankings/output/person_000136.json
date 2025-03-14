@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chuy_Garcia_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Chuy_Garcia_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/chuy_garc\u00eda.jpg"
 }

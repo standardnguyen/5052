@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ken_Calvert.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ken_Calvert.jpg",
+  "headshot_local_url": "static/headshots/ken_calvert.jpg"
 }

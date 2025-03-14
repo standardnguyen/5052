@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rep._Lisa_McClain.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rep._Lisa_McClain.jpg",
+  "headshot_local_url": "static/headshots/lisa_mcclain.jpg"
 }

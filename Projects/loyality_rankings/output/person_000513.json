@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tim_Scott_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tim_Scott_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/tim_scott.jpg"
 }

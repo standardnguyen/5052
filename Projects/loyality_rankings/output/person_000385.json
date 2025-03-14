@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michael_Cloud%2C_Official_Portrait%2C_115th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michael_Cloud%2C_Official_Portrait%2C_115th_Congress.jpg",
+  "headshot_local_url": "static/headshots/michael_cloud.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Official_photo_of_Sen._Sanford_Bishop.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Official_photo_of_Sen._Sanford_Bishop.jpg",
+  "headshot_local_url": "static/headshots/sanford_bishop.jpg"
 }

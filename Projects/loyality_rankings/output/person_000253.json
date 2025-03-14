@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bonnie_Watson_Coleman.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bonnie_Watson_Coleman.jpg",
+  "headshot_local_url": "static/headshots/bonnie_watson_coleman.jpg"
 }

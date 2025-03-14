@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rep._Nathaniel_Moran_official_photo%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rep._Nathaniel_Moran_official_photo%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/nathaniel_moran.jpg"
 }

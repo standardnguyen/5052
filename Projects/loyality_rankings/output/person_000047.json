@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Julia_Brownley_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Julia_Brownley_official_photo.jpg",
+  "headshot_local_url": "static/headshots/julia_brownley.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tom_McClintock_portrait_%28118th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tom_McClintock_portrait_%28118th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/tom_mcclintock.jpg"
 }

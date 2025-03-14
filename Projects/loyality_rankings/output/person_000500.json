@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hoeven_Official_Portrait_2014.JPG"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Hoeven_Official_Portrait_2014.JPG",
+  "headshot_local_url": "static/headshots/john_hoeven.JPG"
 }

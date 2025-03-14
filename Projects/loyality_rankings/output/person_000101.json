@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Laurel_Lee_118thCong.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Laurel_Lee_118thCong.jpeg",
+  "headshot_local_url": "static/headshots/laurel_lee.jpeg"
 }

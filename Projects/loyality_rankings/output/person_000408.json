@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Representative_Eugene_Vindman_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Representative_Eugene_Vindman_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/eugene_vindman.jpg"
 }

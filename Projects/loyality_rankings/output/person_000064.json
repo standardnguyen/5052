@@ -15,5 +15,6 @@
     }
   },
   "total_points": "1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Maxine_Waters_Official.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Maxine_Waters_Official.jpg",
+  "headshot_local_url": "static/headshots/maxine_waters.jpg"
 }

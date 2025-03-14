@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Rick_Allen_Official_Photo%2C_114th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Rick_Allen_Official_Photo%2C_114th_Congress.jpg",
+  "headshot_local_url": "static/headshots/rick_allen.jpg"
 }

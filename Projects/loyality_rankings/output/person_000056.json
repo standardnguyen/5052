@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Norma_Torres_118th_congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Norma_Torres_118th_congress.jpeg",
+  "headshot_local_url": "static/headshots/norma_torres.jpeg"
 }

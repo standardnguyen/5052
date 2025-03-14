@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Dina_Titus_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Dina_Titus_official_photo.jpg",
+  "headshot_local_url": "static/headshots/dina_titus.jpg"
 }

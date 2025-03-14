@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rosa_DeLauro_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rosa_DeLauro_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/rosa_delauro.jpeg"
 }

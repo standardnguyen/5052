@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jodey_Arrington_115th_congress_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jodey_Arrington_115th_congress_photo.jpg",
+  "headshot_local_url": "static/headshots/jodey_arrington.jpg"
 }

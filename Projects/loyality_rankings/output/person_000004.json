@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Robert_Aderholt_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Robert_Aderholt_official_photo.jpg",
+  "headshot_local_url": "static/headshots/robert_aderholt.jpg"
 }

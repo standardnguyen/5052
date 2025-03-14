@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rep._Ayanna_Pressley%2C_117th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rep._Ayanna_Pressley%2C_117th_Congress.jpg",
+  "headshot_local_url": "static/headshots/ayanna_pressley.jpg"
 }

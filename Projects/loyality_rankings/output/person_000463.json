@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Joni_Ernst%2C_official_portrait%2C_116th_Congress_3.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Joni_Ernst%2C_official_portrait%2C_116th_Congress_3.jpg",
+  "headshot_local_url": "static/headshots/joni_ernst.jpg"
 }

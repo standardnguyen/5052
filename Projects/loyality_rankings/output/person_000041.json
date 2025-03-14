@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vince_Fong_official_congressional_photograph_118th_congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vince_Fong_official_congressional_photograph_118th_congress.jpg",
+  "headshot_local_url": "static/headshots/vince_fong.jpg"
 }

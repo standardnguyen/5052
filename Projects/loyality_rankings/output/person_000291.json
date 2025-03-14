@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Richard_Hudson_official_congressional_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Richard_Hudson_official_congressional_photo.jpg",
+  "headshot_local_url": "static/headshots/richard_hudson.jpg"
 }

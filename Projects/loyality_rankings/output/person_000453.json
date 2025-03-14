@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Raphael_Warnock_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Raphael_Warnock_official_photo.jpg",
+  "headshot_local_url": "static/headshots/raphael_warnock.jpg"
 }

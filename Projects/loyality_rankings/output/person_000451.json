@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Senator_Ashley_Moody_from_Florida.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Senator_Ashley_Moody_from_Florida.jpg",
+  "headshot_local_url": "static/headshots/ashley_moody.jpg"
 }

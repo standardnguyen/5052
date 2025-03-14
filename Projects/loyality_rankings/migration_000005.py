@@ -1,3 +1,11 @@
+'''
+notes:
+
+i had to manually inspect some of the output.
+some of them were svgs, or invalid files,
+which meant that i had to manually replace them with images looked up.
+'''
+
 import os
 import json
 import glob

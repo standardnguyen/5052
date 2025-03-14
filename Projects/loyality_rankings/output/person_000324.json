@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brian_Fitzpatrick_official_congressional_photo_%283x4_cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Brian_Fitzpatrick_official_congressional_photo_%283x4_cropped%29.jpg",
+  "headshot_local_url": "static/headshots/brian_fitzpatrick.jpg"
 }

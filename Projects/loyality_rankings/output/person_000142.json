@@ -15,5 +15,6 @@
     }
   },
   "total_points": "1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brad_Schneider_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brad_Schneider_official_photo.jpg",
+  "headshot_local_url": "static/headshots/brad_schneider.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hal_Rogers_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hal_Rogers_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/hal_rogers.jpg"
 }

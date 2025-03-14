@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mark_Takano_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mark_Takano_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/mark_takano.jpeg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Michael_Guest_portrait_116th_congress2.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Michael_Guest_portrait_116th_congress2.jpg",
+  "headshot_local_url": "static/headshots/michael_guest.jpg"
 }

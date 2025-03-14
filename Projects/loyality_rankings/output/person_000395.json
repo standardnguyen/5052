@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lloyd_Doggett_118h_ID.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lloyd_Doggett_118h_ID.jpeg",
+  "headshot_local_url": "static/headshots/lloyd_doggett.jpeg"
 }

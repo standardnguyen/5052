@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Latimer_George_119th_Congress_2.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Latimer_George_119th_Congress_2.jpg",
+  "headshot_local_url": "static/headshots/george_latimer.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rep._Dave_Min_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rep._Dave_Min_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/dave_min.jpg"
 }

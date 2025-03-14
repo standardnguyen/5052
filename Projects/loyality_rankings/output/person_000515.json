@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mike_Rounds_official_Senate_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mike_Rounds_official_Senate_portrait.jpg",
+  "headshot_local_url": "static/headshots/mike_rounds.jpg"
 }

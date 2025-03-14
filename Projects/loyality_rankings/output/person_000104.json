@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Scott_Franklin%2C_117th_Congress_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Scott_Franklin%2C_117th_Congress_portrait.jpg",
+  "headshot_local_url": "static/headshots/scott_franklin.jpg"
 }

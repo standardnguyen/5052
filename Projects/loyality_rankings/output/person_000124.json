@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Wiki_letter_w.svg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Wiki_letter_w.svg",
+  "headshot_local_url": "static/headshots/mike_collins.svg"
 }

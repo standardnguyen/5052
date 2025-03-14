@@ -15,5 +15,6 @@
     }
   },
   "total_points": "1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rep._Brittany_Pettersen_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Rep._Brittany_Pettersen_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/brittany_pettersen.jpg"
 }

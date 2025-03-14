@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Betty_McCollum%2C_official_portrait%2C_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Betty_McCollum%2C_official_portrait%2C_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/betty_mccollum.jpg"
 }

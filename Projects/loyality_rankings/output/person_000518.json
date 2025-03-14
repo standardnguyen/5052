@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/John_Cornyn.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/John_Cornyn.jpg",
+  "headshot_local_url": "static/headshots/john_cornyn.jpg"
 }

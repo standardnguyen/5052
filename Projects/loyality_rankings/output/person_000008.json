@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rep._Nick_Begich_III_%28119th_Congress%29_%283x4_full%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rep._Nick_Begich_III_%28119th_Congress%29_%283x4_full%29.jpg",
+  "headshot_local_url": "static/headshots/nick_begich_iii.jpg"
 }

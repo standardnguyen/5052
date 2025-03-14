@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rep._Tom_Kean_official_photo%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rep._Tom_Kean_official_photo%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/thomas_kean_jr_.jpg"
 }

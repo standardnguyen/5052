@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Austin_Scott_2021-22_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Austin_Scott_2021-22_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/austin_scott.jpg"
 }

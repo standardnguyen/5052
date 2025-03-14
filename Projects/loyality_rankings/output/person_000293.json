@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rep._Chuck_Edwards_official_photo%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rep._Chuck_Edwards_official_photo%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/chuck_edwards.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Jimmy_Panetta_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Jimmy_Panetta_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/jimmy_panetta.jpg"
 }

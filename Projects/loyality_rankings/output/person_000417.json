@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Baumgartner_Michael_119th_Congress_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Baumgartner_Michael_119th_Congress_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/michael_baumgartner.jpg"
 }

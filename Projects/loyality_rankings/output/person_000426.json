@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mark_Pocan_headshot.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mark_Pocan_headshot.jpg",
+  "headshot_local_url": "static/headshots/mark_pocan.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Yvette_Clarke_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Yvette_Clarke_official_photo.jpg",
+  "headshot_local_url": "static/headshots/yvette_clarke.jpg"
 }

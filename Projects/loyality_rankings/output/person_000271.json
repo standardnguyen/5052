@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ritchie_Torres_117th_U.S_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ritchie_Torres_117th_U.S_Congress.jpg",
+  "headshot_local_url": "static/headshots/ritchie_torres.jpg"
 }

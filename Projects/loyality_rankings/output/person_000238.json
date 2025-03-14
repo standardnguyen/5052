@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rep._Susie_Lee_118th_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rep._Susie_Lee_118th_Portrait.jpg",
+  "headshot_local_url": "static/headshots/susie_lee.jpg"
 }

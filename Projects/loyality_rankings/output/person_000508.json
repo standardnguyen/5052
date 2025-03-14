@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/John_Fetterman_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/John_Fetterman_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/john_fetterman.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seth_Magaziner_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seth_Magaziner_%281%29.jpg",
+  "headshot_local_url": "static/headshots/seth_magaziner.jpg"
 }

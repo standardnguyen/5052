@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Schiff_Adam_119th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Schiff_Adam_119th_Congress.jpg",
+  "headshot_local_url": "static/headshots/adam_schiff.jpg"
 }

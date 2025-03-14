@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Mike_simpson_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Mike_simpson_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/mike_simpson.jpg"
 }

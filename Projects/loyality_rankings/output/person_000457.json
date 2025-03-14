@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bob_Menendez%2C_Jim_Risch_with_Tsihanouskaya_at_Senate_Foreign_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bob_Menendez%2C_Jim_Risch_with_Tsihanouskaya_at_Senate_Foreign_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/jim_risch.jpg"
 }

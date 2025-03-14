@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Sorensen_House_Photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Sorensen_House_Photo.jpg",
+  "headshot_local_url": "static/headshots/eric_sorensen.jpg"
 }

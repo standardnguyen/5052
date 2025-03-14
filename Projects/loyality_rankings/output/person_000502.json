@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sen._Bernie_Moreno_official_photo%2C_119th_Congress_%28HR%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sen._Bernie_Moreno_official_photo%2C_119th_Congress_%28HR%29.jpg",
+  "headshot_local_url": "static/headshots/bernie_moreno.jpg"
 }

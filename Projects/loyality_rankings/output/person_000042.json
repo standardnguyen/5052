@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rep_Costa_Headshot_2_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rep_Costa_Headshot_2_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/jim_costa.jpg"
 }

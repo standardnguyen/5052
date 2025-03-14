@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lauren_Underwood_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lauren_Underwood_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/lauren_underwood.jpg"
 }

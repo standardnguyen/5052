@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jared_Huffman_Portrait_118.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jared_Huffman_Portrait_118.jpg",
+  "headshot_local_url": "static/headshots/jared_huffman.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rep._Rob_Bresnahan_official_photo%2C_119th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Rep._Rob_Bresnahan_official_photo%2C_119th_Congress.jpg",
+  "headshot_local_url": "static/headshots/rob_bresnahan.jpg"
 }

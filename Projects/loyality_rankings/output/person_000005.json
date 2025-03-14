@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Dale_Strong_official_House_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Dale_Strong_official_House_portrait.jpg",
+  "headshot_local_url": "static/headshots/dale_strong.jpg"
 }

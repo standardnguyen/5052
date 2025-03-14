@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dan_Webster_portrait_%28118th_and_119th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dan_Webster_portrait_%28118th_and_119th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/daniel_webster.jpg"
 }

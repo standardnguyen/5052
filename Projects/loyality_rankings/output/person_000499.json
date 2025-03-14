@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Senator_Ted_Budd_official_portrait_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Senator_Ted_Budd_official_portrait_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/ted_budd.jpg"
 }

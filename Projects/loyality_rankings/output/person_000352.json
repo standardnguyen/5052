@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tim_Burchett_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tim_Burchett_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/tim_burchett.jpg"
 }

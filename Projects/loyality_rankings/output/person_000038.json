@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg",
+  "headshot_local_url": "static/headshots/ro_khanna.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bill_Foster%2C_Official_Portrait%2C_113th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bill_Foster%2C_Official_Portrait%2C_113th_Congress.jpg",
+  "headshot_local_url": "static/headshots/bill_foster.jpg"
 }

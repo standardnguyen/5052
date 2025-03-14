@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Barry_Loudermilk%2C_official_portrait%2C_115th_congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Barry_Loudermilk%2C_official_portrait%2C_115th_congress.jpg",
+  "headshot_local_url": "static/headshots/barry_loudermilk.jpg"
 }

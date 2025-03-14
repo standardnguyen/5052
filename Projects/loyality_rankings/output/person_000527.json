@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Maria_Cantwell.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Maria_Cantwell.jpg",
+  "headshot_local_url": "static/headshots/maria_cantwell.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/CPingree_Portrait_202203.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/CPingree_Portrait_202203.jpg",
+  "headshot_local_url": "static/headshots/chellie_pingree.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Roger_Williams%2C_118th_Congress_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Roger_Williams%2C_118th_Congress_portrait.jpg",
+  "headshot_local_url": "static/headshots/roger_williams.jpg"
 }

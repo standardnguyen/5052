@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rep._Sheri_Biggs_official_photo%2C_119th_Congress_%283x4_full_crop%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rep._Sheri_Biggs_official_photo%2C_119th_Congress_%283x4_full_crop%29.jpg",
+  "headshot_local_url": "static/headshots/sheri_biggs.jpg"
 }

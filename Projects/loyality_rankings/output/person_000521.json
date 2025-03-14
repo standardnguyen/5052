@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Senator_John_Curtis_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Senator_John_Curtis_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/john_curtis.jpg"
 }

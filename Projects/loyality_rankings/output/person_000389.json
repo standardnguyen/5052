@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rep._John_Carter%2C_118th_Congress_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rep._John_Carter%2C_118th_Congress_portrait.jpg",
+  "headshot_local_url": "static/headshots/john_carter.jpg"
 }

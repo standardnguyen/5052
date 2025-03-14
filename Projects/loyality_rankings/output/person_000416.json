@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dan_Newhouse_official_congressional_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dan_Newhouse_official_congressional_photo.jpg",
+  "headshot_local_url": "static/headshots/dan_newhouse.jpg"
 }

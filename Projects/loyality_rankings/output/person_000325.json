@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Brendan_Boyle_-_2018-05-21_ec_0004.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Brendan_Boyle_-_2018-05-21_ec_0004.jpg",
+  "headshot_local_url": "static/headshots/brendan_boyle.jpg"
 }

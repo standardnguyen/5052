@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kirsten_Gillibrand%2C_official_photo%2C_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/kirsten_gillibrand.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/SenTammyBaldwin_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/SenTammyBaldwin_%281%29.jpg",
+  "headshot_local_url": "static/headshots/tammy_baldwin.jpg"
 }

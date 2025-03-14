@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Max_Miller%2C_official_portrait_%28119th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Max_Miller%2C_official_portrait_%28119th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/max_miller.jpg"
 }

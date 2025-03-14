@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Rep._Maxwell_Frost_-_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Rep._Maxwell_Frost_-_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/maxwell_frost.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rep._Joe_Courtney_Portrait_2024.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rep._Joe_Courtney_Portrait_2024.jpg",
+  "headshot_local_url": "static/headshots/joe_courtney.jpg"
 }

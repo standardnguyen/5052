@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Angus_King%2C_official_portrait%2C_113th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Angus_King%2C_official_portrait%2C_113th_Congress.jpg",
+  "headshot_local_url": "static/headshots/angus_king.jpg"
 }

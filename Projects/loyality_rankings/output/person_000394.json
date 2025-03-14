@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Brian_Babin_115th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Brian_Babin_115th_Congress.jpg",
+  "headshot_local_url": "static/headshots/brian_babin.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rep._Jill_Tokuda_official_photo%2C_118th_Congress_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rep._Jill_Tokuda_official_photo%2C_118th_Congress_%281%29.jpg",
+  "headshot_local_url": "static/headshots/jill_tokuda.jpg"
 }

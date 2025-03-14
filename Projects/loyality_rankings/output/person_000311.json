@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/David_Joyce.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/David_Joyce.jpg",
+  "headshot_local_url": "static/headshots/david_joyce.jpg"
 }

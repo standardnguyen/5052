@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kennedy_Mike_119th_Congress_2.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kennedy_Mike_119th_Congress_2.jpg",
+  "headshot_local_url": "static/headshots/mike_kennedy.jpg"
 }

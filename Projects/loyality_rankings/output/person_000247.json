@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Frank_Pallone_Photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Frank_Pallone_Photo.jpg",
+  "headshot_local_url": "static/headshots/frank_pallone.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/David_Schweikert_official_portrait_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/David_Schweikert_official_portrait_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/david_schweikert.jpg"
 }

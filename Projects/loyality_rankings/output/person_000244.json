@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Representative_Herb_Conaway_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Representative_Herb_Conaway_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/herb_conaway.jpg"
 }

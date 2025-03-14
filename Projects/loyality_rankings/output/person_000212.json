@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Angie_Craig%2C_official_portrait_%28119th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Angie_Craig%2C_official_portrait_%28119th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/angie_craig.jpg"
 }

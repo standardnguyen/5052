@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alex_Padilla_117th_Congress_portrait_%283%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alex_Padilla_117th_Congress_portrait_%283%29.jpg",
+  "headshot_local_url": "static/headshots/alex_padilla.jpg"
 }

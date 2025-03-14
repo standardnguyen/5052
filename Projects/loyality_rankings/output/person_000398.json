@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Celeste_Maloy_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Celeste_Maloy_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/celeste_maloy.jpeg"
 }

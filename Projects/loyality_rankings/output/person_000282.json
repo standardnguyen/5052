@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rep._Tim_Kennedy%27s_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rep._Tim_Kennedy%27s_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/tim_kennedy.jpg"
 }

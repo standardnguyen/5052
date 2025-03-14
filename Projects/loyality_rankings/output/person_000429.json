@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Scott_Fitzgerald_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Scott_Fitzgerald_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/scott_fitzgerald.jpg"
 }

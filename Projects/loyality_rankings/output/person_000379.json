@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chip_Roy.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chip_Roy.jpg",
+  "headshot_local_url": "static/headshots/chip_roy.jpg"
 }

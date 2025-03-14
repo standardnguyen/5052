@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Eric_Burlison_portrait_118th.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Eric_Burlison_portrait_118th.jpg",
+  "headshot_local_url": "static/headshots/eric_burlison.jpg"
 }

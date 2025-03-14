@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mike_Carey_117th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mike_Carey_117th_Congress.jpg",
+  "headshot_local_url": "static/headshots/mike_carey.jpg"
 }

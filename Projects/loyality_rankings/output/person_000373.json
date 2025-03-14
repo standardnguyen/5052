@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Randy_Weber_118th_cong.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Randy_Weber_118th_cong.jpeg",
+  "headshot_local_url": "static/headshots/randy_weber.jpeg"
 }

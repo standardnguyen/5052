@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Official_Portrait_of_Senator_Rick_Scott_%28R-FL%29.jpg",
+  "headshot_local_url": "static/headshots/rick_scott.jpg"
 }

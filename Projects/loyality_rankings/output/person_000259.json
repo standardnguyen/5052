@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/TomSuozzi118thCongress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/TomSuozzi118thCongress.jpg",
+  "headshot_local_url": "static/headshots/tom_suozzi.jpg"
 }

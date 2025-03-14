@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Representative_Cory_Mills_Cropped_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Representative_Cory_Mills_Cropped_Portrait.jpg",
+  "headshot_local_url": "static/headshots/cory_mills.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frank_Mrvan_117th_U.S_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frank_Mrvan_117th_U.S_Congress.jpg",
+  "headshot_local_url": "static/headshots/frank_j__mrvan.jpg"
 }

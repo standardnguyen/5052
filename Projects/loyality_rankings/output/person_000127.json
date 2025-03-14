@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/David_Scott_congressional_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/David_Scott_congressional_portrait.jpg",
+  "headshot_local_url": "static/headshots/david_scott.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chris_Coons%2C_official_portrait%2C_112th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chris_Coons%2C_official_portrait%2C_112th_Congress.jpg",
+  "headshot_local_url": "static/headshots/chris_coons.jpg"
 }

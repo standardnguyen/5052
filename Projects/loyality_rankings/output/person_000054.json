@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pete_Aguilar_117th_congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pete_Aguilar_117th_congress.jpeg",
+  "headshot_local_url": "static/headshots/pete_aguilar.jpeg"
 }

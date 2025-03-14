@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tom_Barrett%2C_official_portrait_%28119th_Congress%29.webp"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tom_Barrett%2C_official_portrait_%28119th_Congress%29.webp",
+  "headshot_local_url": "static/headshots/tom_barrett.webp"
 }

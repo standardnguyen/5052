@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Joe_Wilson_official_congressional_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Joe_Wilson_official_congressional_photo.jpg",
+  "headshot_local_url": "static/headshots/joe_wilson.jpg"
 }

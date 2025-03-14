@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rep-Tom-Cole-117thCong.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rep-Tom-Cole-117thCong.jpeg",
+  "headshot_local_url": "static/headshots/tom_cole.jpeg"
 }

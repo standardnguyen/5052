@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Haridopolos_Mike_119th_Congress_%28crop2%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Haridopolos_Mike_119th_Congress_%28crop2%29.jpg",
+  "headshot_local_url": "static/headshots/mike_haridopolos.jpg"
 }

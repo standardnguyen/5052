@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Congressman_Andy_Ogles_2022.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Congressman_Andy_Ogles_2022.jpg",
+  "headshot_local_url": "static/headshots/andy_ogles.jpg"
 }

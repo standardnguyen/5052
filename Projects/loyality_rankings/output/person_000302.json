@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bob_Latta_portrait_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bob_Latta_portrait_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/bob_latta.jpeg"
 }

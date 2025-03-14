@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Marjorie_Taylor_Greene_117th_Congress_portrait.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Marjorie_Taylor_Greene_117th_Congress_portrait.jpeg",
+  "headshot_local_url": "static/headshots/marjorie_taylor_greene.jpeg"
 }

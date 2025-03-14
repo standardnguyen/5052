@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rep._Mark_Messmer_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rep._Mark_Messmer_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/mark_messmer.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Official-harriet-hageman-wy00.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Official-harriet-hageman-wy00.jpg",
+  "headshot_local_url": "static/headshots/harriet_hageman.jpg"
 }

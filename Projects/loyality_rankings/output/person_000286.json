@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Valerie_Foushee_118th_Congress_3.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Valerie_Foushee_118th_Congress_3.jpg",
+  "headshot_local_url": "static/headshots/valerie_foushee.jpg"
 }

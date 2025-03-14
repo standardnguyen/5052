@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Representative_Jeff_Van_Drew.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Representative_Jeff_Van_Drew.jpg",
+  "headshot_local_url": "static/headshots/jeff_van_drew.jpg"
 }

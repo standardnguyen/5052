@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Stephanie_Bice%2C_117th_Congress_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Stephanie_Bice%2C_117th_Congress_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/stephanie_bice.jpg"
 }

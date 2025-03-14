@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Salud_Carbajal_-_117th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Salud_Carbajal_-_117th_Congress.jpg",
+  "headshot_local_url": "static/headshots/salud_carbajal.jpg"
 }

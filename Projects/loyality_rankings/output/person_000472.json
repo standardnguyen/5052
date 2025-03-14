@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg",
+  "headshot_local_url": "static/headshots/chris_van_hollen.jpg"
 }

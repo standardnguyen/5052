@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Senator_Mike_Bennett.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Senator_Mike_Bennett.jpg",
+  "headshot_local_url": "static/headshots/michael_bennet.jpg"
 }

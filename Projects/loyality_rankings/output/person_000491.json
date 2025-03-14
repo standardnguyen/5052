@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Maggie_Hassan%2C_official_portrait%2C_115th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Maggie_Hassan%2C_official_portrait%2C_115th_Congress.jpg",
+  "headshot_local_url": "static/headshots/maggie_hassan.jpg"
 }

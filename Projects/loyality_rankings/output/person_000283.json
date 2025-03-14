@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Portrait_of_Congressman_Don_Davis.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Portrait_of_Congressman_Don_Davis.jpg",
+  "headshot_local_url": "static/headshots/don_davis.jpg"
 }

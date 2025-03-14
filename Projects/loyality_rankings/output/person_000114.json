@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rep._Carlos_Gimenez_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rep._Carlos_Gimenez_official_photo.jpg",
+  "headshot_local_url": "static/headshots/carlos_gim\u00e9nez.jpg"
 }

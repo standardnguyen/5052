@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rep._Ryan_Zinke_official_photo%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rep._Ryan_Zinke_official_photo%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/ryan_zinke.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Paul_Gosar_official_portrait_September_2016.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Paul_Gosar_official_portrait_September_2016.jpg",
+  "headshot_local_url": "static/headshots/paul_gosar.jpg"
 }

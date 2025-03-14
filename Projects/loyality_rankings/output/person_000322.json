@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bynum_Janelle_119th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Bynum_Janelle_119th_Congress.jpg",
+  "headshot_local_url": "static/headshots/janelle_bynum.jpg"
 }

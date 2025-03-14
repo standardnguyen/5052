@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rep._April_McClain_Delaney_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rep._April_McClain_Delaney_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/april_mcclain_delaney.jpg"
 }

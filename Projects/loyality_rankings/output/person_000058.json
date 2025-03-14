@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sydney_Kamlager-Dove_118th-2.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sydney_Kamlager-Dove_118th-2.jpeg",
+  "headshot_local_url": "static/headshots/sydney_kamlager_dove.jpeg"
 }

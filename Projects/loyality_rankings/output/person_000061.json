@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Young_Kim_117th_U.S_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Young_Kim_117th_U.S_Congress.jpg",
+  "headshot_local_url": "static/headshots/young_kim.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lou_Correa_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lou_Correa_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/lou_correa.jpg"
 }

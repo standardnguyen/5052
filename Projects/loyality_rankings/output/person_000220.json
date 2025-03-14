@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bennie_Thompson_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bennie_Thompson_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/bennie_thompson.jpeg"
 }

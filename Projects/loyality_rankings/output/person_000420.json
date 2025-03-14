@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kim_Schrier_Official_Portrait_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kim_Schrier_Official_Portrait_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/kim_schrier.jpg"
 }

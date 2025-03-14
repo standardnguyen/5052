@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Senator_Warren_August_25%2C_2023.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Senator_Warren_August_25%2C_2023.jpg",
+  "headshot_local_url": "static/headshots/elizabeth_warren.jpg"
 }

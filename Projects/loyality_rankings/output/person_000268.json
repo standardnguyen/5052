@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jerry_Nadler_116th_Congress_official_portrait_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jerry_Nadler_116th_Congress_official_portrait_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/jerry_nadler.jpg"
 }

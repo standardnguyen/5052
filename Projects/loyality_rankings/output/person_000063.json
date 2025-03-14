@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rep._Robert_Garcia_-_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rep._Robert_Garcia_-_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/robert_garcia.jpg"
 }

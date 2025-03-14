@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sen._Thom_Tillis_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sen._Thom_Tillis_official_photo.jpg",
+  "headshot_local_url": "static/headshots/thom_tillis.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Warren_Davidson_118th_Congress_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Warren_Davidson_118th_Congress_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/warren_davidson.jpg"
 }

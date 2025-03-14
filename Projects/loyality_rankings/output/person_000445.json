@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/John_Hickenlooper%2C_official_portrait%2C_117th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/john_hickenlooper.jpeg"
 }

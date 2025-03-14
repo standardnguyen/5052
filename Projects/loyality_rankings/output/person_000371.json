@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Representative_Craig_Goldman_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Representative_Craig_Goldman_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/craig_goldman.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rep._Dan_Meuser_official_photo%2C_116th_congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rep._Dan_Meuser_official_photo%2C_116th_congress.jpg",
+  "headshot_local_url": "static/headshots/dan_meuser.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Katie_Britt.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Katie_Britt.jpg",
+  "headshot_local_url": "static/headshots/katie_britt.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ben_Ray_Luj%C3%A1n%2C_official_portrait_%28119th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ben_Ray_Luj%C3%A1n%2C_official_portrait_%28119th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/ben_ray_luj\u00e1n.jpg"
 }

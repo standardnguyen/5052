@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rep._Robin_Kelly%2C_117th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rep._Robin_Kelly%2C_117th_Congress.jpg",
+  "headshot_local_url": "static/headshots/robin_kelly.jpg"
 }

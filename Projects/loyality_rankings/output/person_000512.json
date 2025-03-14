@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/U.S._Senator_Lindsey_Graham%2C_Official_Photo%2C_113th_Congress.jpg",
+  "headshot_local_url": "static/headshots/lindsey_graham.jpg"
 }

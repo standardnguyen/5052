@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Neal_Dunn_115th_Congress_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Neal_Dunn_115th_Congress_photo.jpg",
+  "headshot_local_url": "static/headshots/neal_dunn.jpg"
 }

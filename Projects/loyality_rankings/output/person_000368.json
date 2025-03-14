@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Green_Official_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Al_Green_Official_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/al_green.jpg"
 }

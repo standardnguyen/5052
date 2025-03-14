@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rep._Marie_Gluesenkamp_Perez_-_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rep._Marie_Gluesenkamp_Perez_-_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/marie_gluesenkamp_perez.jpg"
 }

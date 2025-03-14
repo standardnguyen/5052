@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Representative_Kelly_Morrison_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Representative_Kelly_Morrison_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/kelly_morrison.jpg"
 }

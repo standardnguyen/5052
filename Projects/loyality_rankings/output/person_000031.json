@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mark_DeSaulnier-1.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mark_DeSaulnier-1.jpeg",
+  "headshot_local_url": "static/headshots/mark_desaulnier.jpeg"
 }

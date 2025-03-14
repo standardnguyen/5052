@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Stephen_Lynch_2019.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Stephen_Lynch_2019.jpg",
+  "headshot_local_url": "static/headshots/stephen_f__lynch.jpg"
 }

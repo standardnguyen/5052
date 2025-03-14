@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Diana_Harshbarger_116th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Diana_Harshbarger_116th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/diana_harshbarger.jpeg"
 }

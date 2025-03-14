@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sen._Eric_Schmitt%2C_official_portrait%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/eric_schmitt.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gabe_Amo_118th_Cong.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gabe_Amo_118th_Cong.jpg",
+  "headshot_local_url": "static/headshots/gabe_amo.jpg"
 }

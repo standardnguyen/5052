@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Steven_Horsford_118th.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Steven_Horsford_118th.jpeg",
+  "headshot_local_url": "static/headshots/steven_horsford.jpeg"
 }

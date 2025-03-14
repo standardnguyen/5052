@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ralph_Norman_official_photo_%28cropped_3%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ralph_Norman_official_photo_%28cropped_3%29.jpg",
+  "headshot_local_url": "static/headshots/ralph_norman.jpg"
 }

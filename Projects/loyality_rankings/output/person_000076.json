@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RepJeffHurd.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RepJeffHurd.jpg",
+  "headshot_local_url": "static/headshots/jeff_hurd.jpg"
 }

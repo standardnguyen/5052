@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/DannyKDavis113th.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/DannyKDavis113th.jpg",
+  "headshot_local_url": "static/headshots/danny_davis.jpg"
 }

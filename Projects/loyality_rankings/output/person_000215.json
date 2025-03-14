@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg",
+  "headshot_local_url": "static/headshots/ilhan_omar.jpg"
 }

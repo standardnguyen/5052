@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sean_Casten_Headshot_117th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sean_Casten_Headshot_117th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/sean_casten.jpeg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mike_Crapo_2019_%28looser_crop%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mike_Crapo_2019_%28looser_crop%29.jpg",
+  "headshot_local_url": "static/headshots/mike_crapo.jpg"
 }

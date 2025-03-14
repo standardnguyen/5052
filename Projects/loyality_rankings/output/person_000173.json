@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Steve_Scalise_116th_Congress_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Steve_Scalise_116th_Congress_official_photo.jpg",
+  "headshot_local_url": "static/headshots/steve_scalise.jpg"
 }

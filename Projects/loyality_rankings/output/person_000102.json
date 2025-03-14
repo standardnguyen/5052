@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vern_Buchanan_portrait_%28118th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vern_Buchanan_portrait_%28118th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/vern_buchanan.jpg"
 }

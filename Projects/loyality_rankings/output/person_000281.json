@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Joe_Morelle_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Joe_Morelle_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/joseph_morelle.jpeg"
 }

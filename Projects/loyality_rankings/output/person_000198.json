@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jack_Bergman_%282017%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jack_Bergman_%282017%29.jpg",
+  "headshot_local_url": "static/headshots/jack_bergman.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/U.S._Rep._Jennifer_McClellan_-_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/U.S._Rep._Jennifer_McClellan_-_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/jennifer_mcclellan.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rep._Derek_Tran_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rep._Derek_Tran_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/derek_tran.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Andy_Harris_115th_Congress_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Andy_Harris_115th_Congress_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/andy_harris.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-1",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Moore_Tim_119th_Congress_%28cropped2%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Moore_Tim_119th_Congress_%28cropped2%29.jpg",
+  "headshot_local_url": "static/headshots/tim_moore.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rep_Russell_Fry_Official_Portrait_%283x4_cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rep_Russell_Fry_Official_Portrait_%283x4_cropped%29.jpg",
+  "headshot_local_url": "static/headshots/russell_fry.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Jeff_Merkley%2C_115th_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Jeff_Merkley%2C_115th_official_photo.jpg",
+  "headshot_local_url": "static/headshots/jeff_merkley.jpg"
 }

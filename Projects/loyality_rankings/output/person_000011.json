@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Rep._Yassamin_Ansari_official_photo%2C_119th_Congress_%284x5_cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Rep._Yassamin_Ansari_official_photo%2C_119th_Congress_%284x5_cropped%29.jpg",
+  "headshot_local_url": "static/headshots/yassamin_ansari.jpg"
 }

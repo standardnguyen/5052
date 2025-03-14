@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mary_Gay_Scanlon%2C_official_portrait%2C_2018_%283x4_cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mary_Gay_Scanlon%2C_official_portrait%2C_2018_%283x4_cropped%29.jpg",
+  "headshot_local_url": "static/headshots/mary_gay_scanlon.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thomas_Massie_official_portrait%2C_2022.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thomas_Massie_official_portrait%2C_2022.jpg",
+  "headshot_local_url": "static/headshots/thomas_massie.jpg"
 }

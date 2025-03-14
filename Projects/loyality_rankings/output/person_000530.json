@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ron_Johnson_portrait_117th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ron_Johnson_portrait_117th_Congress.jpg",
+  "headshot_local_url": "static/headshots/ron_johnson.jpg"
 }

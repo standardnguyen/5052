@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chris_Murphy%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chris_Murphy%2C_official_portrait%2C_113th_Congress_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/chris_murphy.jpg"
 }

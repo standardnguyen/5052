@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Senator_Dan_Sullivan_official.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Senator_Dan_Sullivan_official.jpg",
+  "headshot_local_url": "static/headshots/dan_sullivan.jpg"
 }

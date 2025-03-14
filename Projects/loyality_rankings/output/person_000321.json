@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rep._Val_Hoyle_portrait%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Rep._Val_Hoyle_portrait%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/val_hoyle.jpg"
 }

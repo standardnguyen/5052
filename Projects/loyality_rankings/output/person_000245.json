@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chris_Smith_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chris_Smith_official_photo.jpg",
+  "headshot_local_url": "static/headshots/chris_smith.jpg"
 }

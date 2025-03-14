@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sam_Graves_ca_118th_Congress.JPG"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sam_Graves_ca_118th_Congress.JPG",
+  "headshot_local_url": "static/headshots/sam_graves.JPG"
 }

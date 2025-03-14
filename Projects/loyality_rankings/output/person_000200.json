@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Hillary_Scholten_-_118th_Congress_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rep._Hillary_Scholten_-_118th_Congress_%281%29.jpg",
+  "headshot_local_url": "static/headshots/hillary_scholten.jpg"
 }

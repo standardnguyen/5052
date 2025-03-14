@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/John_B._Larson.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/John_B._Larson.jpg",
+  "headshot_local_url": "static/headshots/john_b__larson.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tommy_tuberville.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tommy_tuberville.jpg",
+  "headshot_local_url": "static/headshots/tommy_tuberville.jpg"
 }

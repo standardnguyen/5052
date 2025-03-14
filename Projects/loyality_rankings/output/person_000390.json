@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Rep._Julie_Johnson_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Rep._Julie_Johnson_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/julie_johnson.jpg"
 }

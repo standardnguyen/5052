@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nancy_Mace.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nancy_Mace.jpg",
+  "headshot_local_url": "static/headshots/nancy_mace.jpg"
 }

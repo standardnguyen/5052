@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rep._Lateefah_Simon_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rep._Lateefah_Simon_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/lateefah_simon.jpg"
 }

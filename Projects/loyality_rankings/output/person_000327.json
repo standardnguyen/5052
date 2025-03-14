@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Madeleine_Dean_Official_Portrait_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Madeleine_Dean_Official_Portrait_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/madeleine_dean.jpg"
 }

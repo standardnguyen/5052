@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Senator_Ruben_Gallego_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Senator_Ruben_Gallego_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/ruben_gallego.jpg"
 }

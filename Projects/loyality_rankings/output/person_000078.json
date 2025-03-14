@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jeff_Crank_119th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jeff_Crank_119th_Congress.jpg",
+  "headshot_local_url": "static/headshots/jeff_crank.jpg"
 }

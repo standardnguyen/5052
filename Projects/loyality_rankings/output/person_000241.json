@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Maggie_Goodlander_official_portrait%2C_119th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Maggie_Goodlander_official_portrait%2C_119th_Congress.jpg",
+  "headshot_local_url": "static/headshots/maggie_goodlander.jpg"
 }

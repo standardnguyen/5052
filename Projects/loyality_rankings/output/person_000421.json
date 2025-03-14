@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Adam_Smith_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Adam_Smith_official_photo.jpg",
+  "headshot_local_url": "static/headshots/adam_smith.jpg"
 }

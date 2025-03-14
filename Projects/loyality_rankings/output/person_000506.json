@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ron_Wyden_117th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ron_Wyden_117th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/ron_wyden.jpeg"
 }

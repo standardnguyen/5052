@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jay_Obernolte_117th_U.S_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jay_Obernolte_117th_U.S_Congress.jpg",
+  "headshot_local_url": "static/headshots/jay_obernolte.jpg"
 }

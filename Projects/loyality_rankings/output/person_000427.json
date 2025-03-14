@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Congressman_dvo_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Congressman_dvo_%281%29.jpg",
+  "headshot_local_url": "static/headshots/derrick_van_orden.jpg"
 }

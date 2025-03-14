@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Eric_Swalwell_114th_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Eric_Swalwell_114th_official_photo.jpg",
+  "headshot_local_url": "static/headshots/eric_swalwell.jpg"
 }

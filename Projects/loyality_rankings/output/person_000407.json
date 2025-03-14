@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ben_Cline%2C_official_116th_Congress_photo_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ben_Cline%2C_official_116th_Congress_photo_portrait.jpg",
+  "headshot_local_url": "static/headshots/ben_cline.jpg"
 }

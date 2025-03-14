@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Roger_Marshall_117th_Congress_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Roger_Marshall_117th_Congress_portrait.jpg",
+  "headshot_local_url": "static/headshots/roger_marshall.jpg"
 }

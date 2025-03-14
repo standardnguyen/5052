@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Schmidt_Derek_119th_Congress_%28cropped2%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Schmidt_Derek_119th_Congress_%28cropped2%29.jpg",
+  "headshot_local_url": "static/headshots/derek_schmidt.jpg"
 }

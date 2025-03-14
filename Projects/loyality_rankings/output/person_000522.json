@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bernie_Sanders_2023.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bernie_Sanders_2023.jpg",
+  "headshot_local_url": "static/headshots/bernie_sanders.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Congresswoman_Sheila_Cherfilus-McCormick_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Congresswoman_Sheila_Cherfilus-McCormick_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/sheila_cherfilus_mccormick.jpg"
 }

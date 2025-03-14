@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jahana_Hayes%2C_official_portrait%2C_116th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jahana_Hayes%2C_official_portrait%2C_116th_Congress.jpg",
+  "headshot_local_url": "static/headshots/jahana_hayes.jpg"
 }

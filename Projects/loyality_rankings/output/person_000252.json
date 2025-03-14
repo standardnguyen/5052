@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mikie_Sherrill%2C_official_portrait%2C_116th_Congress_2.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mikie_Sherrill%2C_official_portrait%2C_116th_Congress_2.jpg",
+  "headshot_local_url": "static/headshots/mikie_sherrill.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rep._Dave_Taylor_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Rep._Dave_Taylor_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/david_taylor.jpg"
 }

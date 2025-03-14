@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RepAdamGray_%28cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RepAdamGray_%28cropped%29.jpg",
+  "headshot_local_url": "static/headshots/adam_gray.jpg"
 }

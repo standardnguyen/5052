@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Representative_Sarah_Elfreth_Official_Portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Representative_Sarah_Elfreth_Official_Portrait.jpg",
+  "headshot_local_url": "static/headshots/sarah_elfreth.jpg"
 }

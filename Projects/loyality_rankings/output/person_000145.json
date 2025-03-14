@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rep.-Budzinski-Official-Photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rep.-Budzinski-Official-Photo.jpg",
+  "headshot_local_url": "static/headshots/nikki_budzinski.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Rep._Summer_Lee_-_118th_Congress_%283x4_cropped%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Rep._Summer_Lee_-_118th_Congress_%283x4_cropped%29.jpg",
+  "headshot_local_url": "static/headshots/summer_lee.jpg"
 }

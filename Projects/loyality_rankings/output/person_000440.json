@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Senator_John_Boozman_Official_Portrait_%28115th_Congress%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Senator_John_Boozman_Official_Portrait_%28115th_Congress%29.jpg",
+  "headshot_local_url": "static/headshots/john_boozman.jpg"
 }

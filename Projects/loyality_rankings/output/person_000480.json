@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Roger_Wicker_Portrait_2018_full.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Roger_Wicker_Portrait_2018_full.jpg",
+  "headshot_local_url": "static/headshots/roger_wicker.jpg"
 }

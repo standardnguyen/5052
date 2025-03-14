@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rep._Troy_Downing_official_photo%2C_119th_Congress_%28cropped2%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rep._Troy_Downing_official_photo%2C_119th_Congress_%28cropped2%29.jpg",
+  "headshot_local_url": "static/headshots/troy_downing.jpg"
 }

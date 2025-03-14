@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gary_Peters_official_photo_115th_congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gary_Peters_official_photo_115th_congress.jpg",
+  "headshot_local_url": "static/headshots/gary_peters.jpg"
 }

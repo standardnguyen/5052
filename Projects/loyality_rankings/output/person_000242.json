@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Donald_Norcross_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Donald_Norcross_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/donald_norcross.jpg"
 }

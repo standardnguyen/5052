@@ -15,5 +15,6 @@
     }
   },
   "total_points": "",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mitch_McConnell_2016_official_photo_%281%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mitch_McConnell_2016_official_photo_%281%29.jpg",
+  "headshot_local_url": "static/headshots/mitch_mcconnell.jpg"
 }

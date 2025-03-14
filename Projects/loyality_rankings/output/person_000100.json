@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kathy_Castor.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kathy_Castor.jpg",
+  "headshot_local_url": "static/headshots/kathy_castor.jpg"
 }

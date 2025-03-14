@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nick_lalota_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nick_lalota_portrait.jpg",
+  "headshot_local_url": "static/headshots/nick_lalota.jpg"
 }

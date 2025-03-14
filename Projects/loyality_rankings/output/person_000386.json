@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Henry_Cuellar%2C_official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Henry_Cuellar%2C_official_portrait.jpg",
+  "headshot_local_url": "static/headshots/henry_cuellar.jpg"
 }

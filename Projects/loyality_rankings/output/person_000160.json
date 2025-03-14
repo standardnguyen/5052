@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ashley_Hinson_Official_portrait.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ashley_Hinson_Official_portrait.jpg",
+  "headshot_local_url": "static/headshots/ashley_hinson.jpg"
 }

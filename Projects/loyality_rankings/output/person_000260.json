@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Gillen_Laura_119th_Congress_%28cropped2%29.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Gillen_Laura_119th_Congress_%28cropped2%29.jpg",
+  "headshot_local_url": "static/headshots/laura_gillen.jpg"
 }

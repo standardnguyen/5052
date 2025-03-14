@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Steil_Headshot.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Steil_Headshot.jpg",
+  "headshot_local_url": "static/headshots/bryan_steil.jpg"
 }

@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Andrea_Salinas%2C_Official_Portrait%2C_118th_Congress.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Andrea_Salinas%2C_Official_Portrait%2C_118th_Congress.jpg",
+  "headshot_local_url": "static/headshots/andrea_salinas.jpg"
 }

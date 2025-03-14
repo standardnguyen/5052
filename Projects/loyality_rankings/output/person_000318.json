@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Suzanne_Bonamici.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Suzanne_Bonamici.jpg",
+  "headshot_local_url": "static/headshots/suzanne_bonamici.jpg"
 }

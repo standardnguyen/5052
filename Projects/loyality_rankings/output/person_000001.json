@@ -15,5 +15,6 @@
     }
   },
   "total_points": "-2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rep._Barry_Moore_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Rep._Barry_Moore_official_photo.jpg",
+  "headshot_local_url": "static/headshots/barry_moore.jpg"
 }

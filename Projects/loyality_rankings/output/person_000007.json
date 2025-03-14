@@ -15,5 +15,6 @@
     }
   },
   "total_points": "0",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Terri_Sewell_official_photo.jpg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Terri_Sewell_official_photo.jpg",
+  "headshot_local_url": "static/headshots/terri_sewell.jpg"
 }

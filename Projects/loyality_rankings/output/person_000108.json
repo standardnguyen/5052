@@ -15,5 +15,6 @@
     }
   },
   "total_points": "2",
-  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lois_Frankel_118th_Congress.jpeg"
+  "headshot_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lois_Frankel_118th_Congress.jpeg",
+  "headshot_local_url": "static/headshots/lois_frankel.jpeg"
 }
