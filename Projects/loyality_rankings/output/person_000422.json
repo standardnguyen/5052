@@ -1,0 +1,18 @@
+{
+  "name": "Marilyn Strickland",
+  "district": "congressional_representative_position_0424.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Marilyn_Strickland",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "2"
+}

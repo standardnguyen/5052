@@ -1,0 +1,18 @@
+{
+  "name": "Lisa Blunt Rochester",
+  "district": "senator_position_0451.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Lisa_Blunt_Rochester",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

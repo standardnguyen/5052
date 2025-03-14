@@ -1,0 +1,18 @@
+{
+  "name": "Diana DeGette",
+  "district": "congressional_representative_position_0074.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Diana_DeGette",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "2"
+}

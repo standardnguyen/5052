@@ -1,0 +1,18 @@
+{
+  "name": "Chellie Pingree",
+  "district": "congressional_representative_position_0180.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Chellie_Pingree",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "2"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Sam Liccardo",
+  "district": "congressional_representative_position_0037.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Sam_Liccardo",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "2"
+}

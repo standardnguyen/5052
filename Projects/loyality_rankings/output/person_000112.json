@@ -1,0 +1,18 @@
+{
+  "name": "Mario D\u00edaz-Balart",
+  "district": "congressional_representative_position_0113.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Yea",
+      "points": "-1"
+    }
+  },
+  "total_points": "-2"
+}

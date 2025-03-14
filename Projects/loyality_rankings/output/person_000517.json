@@ -1,0 +1,18 @@
+{
+  "name": "Bill Hagerty",
+  "district": "senator_position_0519.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Bill_Hagerty",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

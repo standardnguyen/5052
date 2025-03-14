@@ -1,0 +1,18 @@
+{
+  "name": "Nancy Pelosi",
+  "district": "congressional_representative_position_0032.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Nancy_Pelosi",
+  "votes": {
+    "laken_riley": {
+      "vote": "Not Voting",
+      "notes": "",
+      "points": "0"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "1"
+}

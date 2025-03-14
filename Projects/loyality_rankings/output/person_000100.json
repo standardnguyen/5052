@@ -1,0 +1,18 @@
+{
+  "name": "Kathy Castor",
+  "district": "congressional_representative_position_0101.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "2"
+}

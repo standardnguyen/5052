@@ -1,0 +1,18 @@
+{
+  "name": "Marsha Blackburn",
+  "district": "senator_position_0518.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Marsha_Blackburn",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

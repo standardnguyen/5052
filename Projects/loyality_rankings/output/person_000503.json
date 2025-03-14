@@ -1,0 +1,18 @@
+{
+  "name": "Jon Husted",
+  "district": "senator_position_0505.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Jon_Husted",
+  "votes": {
+    "laken_riley": {
+      "vote": "N/A",
+      "notes": "Vacant seat at time of voting",
+      "points": "0"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

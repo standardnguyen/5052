@@ -1,0 +1,18 @@
+{
+  "name": "Tim Moore",
+  "district": "congressional_representative_position_0297.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Tim_Moore_(North_Carolina_politician)",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Not Voting",
+      "points": "0"
+    }
+  },
+  "total_points": "-1"
+}

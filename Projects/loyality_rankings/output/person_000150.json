@@ -1,0 +1,18 @@
+{
+  "name": "Frank J. Mrvan",
+  "district": "congressional_representative_position_0151.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Frank_J._Mrvan",
+  "votes": {
+    "laken_riley": {
+      "vote": "Not Voting",
+      "notes": "",
+      "points": "0"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "1"
+}

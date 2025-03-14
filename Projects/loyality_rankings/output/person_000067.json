@@ -1,0 +1,18 @@
+{
+  "name": "Lou Correa",
+  "district": "congressional_representative_position_0067.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Lou_Correa",
+  "votes": {
+    "laken_riley": {
+      "vote": "Not Voting",
+      "notes": "",
+      "points": "0"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "1"
+}

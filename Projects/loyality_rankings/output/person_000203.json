@@ -1,0 +1,18 @@
+{
+  "name": "Debbie Dingell",
+  "district": "congressional_representative_position_0204.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Debbie_Dingell",
+  "votes": {
+    "laken_riley": {
+      "vote": "Not Voting",
+      "notes": "",
+      "points": "0"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "1"
+}

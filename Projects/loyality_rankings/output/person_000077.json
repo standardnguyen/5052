@@ -1,0 +1,18 @@
+{
+  "name": "Lauren Boebert",
+  "district": "congressional_representative_position_0077.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Lauren_Boebert",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Yea",
+      "points": "-1"
+    }
+  },
+  "total_points": "-2"
+}

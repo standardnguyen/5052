@@ -1,0 +1,18 @@
+{
+  "name": "Ritchie Torres",
+  "district": "congressional_representative_position_0272.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Ritchie_Torres",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "0"
+}

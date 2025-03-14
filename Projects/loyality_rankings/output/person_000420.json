@@ -1,0 +1,18 @@
+{
+  "name": "Kim Schrier",
+  "district": "congressional_representative_position_0422.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Kim_Schrier",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Nay",
+      "points": "1"
+    }
+  },
+  "total_points": "0"
+}

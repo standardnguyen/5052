@@ -1,0 +1,18 @@
+{
+  "name": "Bernie Sanders",
+  "district": "senator_position_0524.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

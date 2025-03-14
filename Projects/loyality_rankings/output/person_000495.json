@@ -1,0 +1,18 @@
+{
+  "name": "Ben Ray Luj\u00e1n",
+  "district": "senator_position_0497.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n",
+  "votes": {
+    "laken_riley": {
+      "vote": "Nay",
+      "notes": "",
+      "points": "1"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

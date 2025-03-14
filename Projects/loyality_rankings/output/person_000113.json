@@ -1,0 +1,18 @@
+{
+  "name": "Mar\u00eda Elvira Salazar",
+  "district": "congressional_representative_position_0114.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Elvira_Salazar",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Yea",
+      "points": "-1"
+    }
+  },
+  "total_points": "-2"
+}

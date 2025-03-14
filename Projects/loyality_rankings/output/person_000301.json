@@ -1,0 +1,18 @@
+{
+  "name": "Jim Jordan",
+  "district": "congressional_representative_position_0302.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Jim_Jordan",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "Yea",
+      "points": "-1"
+    }
+  },
+  "total_points": "-2"
+}

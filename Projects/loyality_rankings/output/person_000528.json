@@ -1,0 +1,18 @@
+{
+  "name": "Shelley Moore Capito",
+  "district": "senator_position_0530.json",
+  "party": "Republican",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito",
+  "votes": {
+    "laken_riley": {
+      "vote": "Yea",
+      "notes": "",
+      "points": "-1"
+    },
+    "hr_1968": {
+      "vote": "",
+      "points": ""
+    }
+  },
+  "total_points": ""
+}

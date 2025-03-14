@@ -1,0 +1,18 @@
+{
+  "name": "Ra\u00fal Grijalva",
+  "district": "congressional_representative_position_0015.json",
+  "party": "Democratic",
+  "person_wiki_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva",
+  "votes": {
+    "laken_riley": {
+      "vote": "Not Voting",
+      "notes": "",
+      "points": "0"
+    },
+    "hr_1968": {
+      "vote": "Not Voting",
+      "points": "0"
+    }
+  },
+  "total_points": "0"
+}
