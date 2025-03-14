@@ -21,3 +21,9 @@ This law is bad for many reasons:
 3. From [Immigrant Legal Resource Center](https://www.ilrc.org/laken-riley-act-manipulates-tragedy-unjustly-demonizes-immigrants)
 
 ## H. R. 1968
+
+This was a bad thing for... reasons
+
+# Migrations
+
+In case someone ever wants to replicate the database and rebuild the data themselves, the migrations are there to help guide them along. The migrations will probably fail in small ways due to small changes in how the world works, or different versions of python. So ultimately you still need to know how to debug when things crash. Good luck!
