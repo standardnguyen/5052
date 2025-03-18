@@ -1,6 +1,6 @@
 ---
 created: 2025-03-18T11:10:24-06:00
-modified: 2025-03-18T11:12:20-06:00
+modified: 2025-03-18T11:12:26-06:00
 ---
 
 # Embrace Resentment
